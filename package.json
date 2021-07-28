@@ -1,0 +1,20 @@
+{
+  "name": "3w_pw2_2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i -g @angular/core @angular/cli && ng version",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vichelena2/3w_pw2_2021.git"
+  },
+  "author": "Victoria Helena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vichelena2/3w_pw2_2021/issues"
+  },
+  "homepage": "https://github.com/Vichelena2/3w_pw2_2021#readme"
+}
